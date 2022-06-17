@@ -1,0 +1,4 @@
+﻿  Q13_RomanToInteger.cpp
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Q13_RomanToInteger\Q13_RomanToInteger\Q13_RomanToInteger.cpp(36,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Q13_RomanToInteger\Q13_RomanToInteger\Q13_RomanToInteger.cpp(36,50): warning C4018: '<=': signed/unsigned mismatch
+  Q13_RomanToInteger.vcxproj -> C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Q13_RomanToInteger\Debug\Q13_RomanToInteger.exe
